@@ -10,7 +10,7 @@ The analysis covers EV registrations for all Indian States/UTs across a 5-year p
 
 India has seen 10× growth in EV registrations in just 4 years.
 This project examines:
-*State-wise EV adoption
+*State-wise EV adoption 
 *Year-on-Year (YoY) growth
 *Compound Annual Growth Rate (CAGR)
 *Total EVs registered (2020–2024)
