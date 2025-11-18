@@ -74,9 +74,8 @@ Created a multi-view Tableau dashboard including:
 ---
 
 ## 👤 About Me
-**Rishant Singh**  
-Beginner Data Analyst learning through real-world projects.  
-Focused on Excel, SQL, Tableau, and Python.
+**Rishant Singh**   
+Focused on Excel, SQL & Tableau.
 
 ---
 
