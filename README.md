@@ -17,8 +17,13 @@ https://public.tableau.com/app/profile/rishant.singh/viz/ev_growth_rate_india/Da
 
 ---
 
+## 🖼️ Dashboard Preview
+
+![EV Dashboard Preview](DashboardEV.png)
+
+---
+
 ## 📂 Files Included in This Repository
-- **EV_raw_data.xlsx** — Raw data collected from VAHAN Portal  
 - **EV_cleaned_data.csv** — Final cleaned and transformed dataset  
 - **dashboard.png** — Screenshot of the Tableau dashboard  
 - **dashboard_link.txt** — Direct link to the Tableau dashboard  
