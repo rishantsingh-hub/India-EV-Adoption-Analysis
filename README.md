@@ -17,9 +17,10 @@ https://public.tableau.com/app/profile/rishant.singh/viz/ev_growth_rate_india/Da
 
 ---
 
-## 🖼️ Dashboard Preview
+## 🖼️ Project Report
 
 ![EV Dashboard Preview](DashboardEV.png)
+![PDF Report](EV_Portfolio_Report_Stylish.pdf)
 
 ---
 
