@@ -11,16 +11,16 @@ This project helped me understand real data cleaning, growth analysis, and dashb
 
 ---
 
-## 📊 Interactive Dashboard
-🔗 **View the Tableau Dashboard:**  
-https://public.tableau.com/app/profile/rishant.singh/viz/ev_growth_rate_india/Dashboard1?publish=yes
-
----
-
 ## 🖼️ Project Report
 
-![EV Dashboard Preview](DashboardEV.png)
-![PDF Report](EV_Portfolio_Report_Stylish.pdf)
+## 📄 Project Report (PDF)
+[Download Stylish EV Report](EV_Portfolio_Report_Stylish.pdf)
+
+## 📊 Tableau Dashboard
+https://public.tableau.com/app/profile/rishant.singh/viz/ev_growth_rate_india/Dashboard1
+
+![Dashboard Preview](DashboardEV.png)
+
 
 ---
 
